@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: lcartwri/frontend-test
+          image: lcartwri/web-app-demo
           ports:
             - containerPort: 80
