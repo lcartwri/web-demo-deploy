@@ -4,3 +4,6 @@ kind: Kustomization
 resources:
 - ./deployment.yaml
 - ./service.yaml
+images:
+- name: lcartwri/web-demo-app
+  newTag: 1c838122c76a86d457bbcac4634e75f1453665ce
