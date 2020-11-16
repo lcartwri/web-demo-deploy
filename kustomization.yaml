@@ -6,4 +6,4 @@ resources:
 - ./service.yaml
 images:
 - name: lcartwri/web-demo-app
-  newTag: 165dbfc25396006895b341157f01214edb956bf1
+  newTag: 6b5c0dea14a384f844e8ce2abb8284bbda840188
